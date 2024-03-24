@@ -2,6 +2,7 @@ Change Data Capture (CDC) with Debezium, Kafka, Postgres Docker Setup
 =====================================================================
 
 This project demonstrates setting up a Change Data Capture (CDC) pipeline using Debezium, Kafka, and PostgreSQL within Docker containers. CDC is a method used to track and capture changes in a database and propagate them to other systems in real-time.
+![thumb](https://github.com/hacker-dude/Realtime-Change-Data-Capture-Streaming/assets/71318439/0030cd47-9cb3-479c-8049-ab66573572ca)
 
 Setup Instructions
 ------------------
